@@ -27,7 +27,7 @@ The study will use bioinformatics approaches. In this project, participants will
 
 Manuscript:
 
-Casimiro-Soriguer, C., Perez-Florido, J., Fernandez-Rueda, J., Pedrosa-Corral, I., Guillot-Sulay, V., & Lorusso, N. et al. (2021). Phylogenetic Analysis of the 2020 West Nile Virus (WNV) Outbreak in Andalusia (Spain). Viruses, 13(5), 836. doi: 10.3390/v13050836
+Casimiro-Soriguer, C. S., Perez-Florido, J., Fernandez-Rueda, J. L., Pedrosa-Corral, I., Guillot-Sulay, V., Lorusso, N., Martinez-Gonzalez, L. J., Navarro-Marí, J. M., Dopazo, J., & Sanbonmatsu-Gámez, S. (2021). Phylogenetic Analysis of the 2020 West Nile Virus (WNV) Outbreak in Andalusia (Spain). Viruses, 13(5), 836. https://doi.org/10.3390/v13050836
 
 <b>Objective:</b>
 - Come with a detailed report answering the following:
@@ -43,7 +43,7 @@ The study will aim at reproducing a meta-genomics study performed in Kenya. The 
 
 Manuscript:
 
-Langat, S., Eyase, F., Bulimo, W., Lutomiah, J., Oyola, S., Imbuga, M., & Sang, R. (2021). Profiling of RNA Viruses in Biting Midges ( Ceratopogonidae ) and Related Diptera from Kenya Using Metagenomics and Metabarcoding Analysis. Msphere, 6(5). doi: 10.1128/msphere.00551-21
+Langat, S. K., Eyase, F., Bulimo, W., Lutomiah, J., Oyola, S. O., Imbuga, M., & Sang, R. (2021). Profiling of RNA Viruses in Biting Midges (Ceratopogonidae) and Related Diptera from Kenya Using Metagenomics and Metabarcoding Analysis. mSphere, 6(5), e0055121. https://doi.org/10.1128/mSphere.00551-21
 
 <b>Objective:</b>
 - Come with a detailed report answering the following:
@@ -58,7 +58,7 @@ The study will aim at trying to describe the current status of Open Science in A
 
 Manuscript:
 
-Mwangi KW, Mainye N, Ouso DO, Esoh K, Muraya AW, Mwangi CK, Naitore C, Karega P, Kibet-Rono G, Musundi S, Mutisya J, Mwangi E, Mgawe C, Miruka S, Kibet CK; OpenScienceKE Collaborators. Open Science in Kenya: Where Are We? Front Res Metr Anal. 2021 May 13;6:669675. doi: 10.3389/frma.2021.669675. 
+Mwangi, K. W., Mainye, N., Ouso, D. O., Esoh, K., Muraya, A. W., Mwangi, C. K., Naitore, C., Karega, P., Kibet-Rono, G., Musundi, S., Mutisya, J., Mwangi, E., Mgawe, C., Miruka, S., Kibet, C. K., & OpenScienceKE Collaborators (2021). Open Science in Kenya: Where Are We?. Frontiers in research metrics and analytics, 6, 669675. https://doi.org/10.3389/frma.2021.669675
 
 <b>Objective:</b>
 - Come up with a detailed report answering the following:
