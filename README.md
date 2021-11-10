@@ -81,7 +81,7 @@ The project leads of each project are partners of BHKi and OpenScienceKe.
 Our workshop participants will proceed to this phase and will be divided into groups to take part in different projects.
 
 ## Results and conclusions
-All the projects will adopt an open approach and will be published or updated in GitHub. The participants will also present their works in the BOSS workshop happening in March 2022. 
+All the projects will adopt an open approach and will be published or updated in GitHub. The participants will also present their works in the BOSS conference happening in March 2022. 
 
 ## How to contribute
 Follow the individual project GitHub repos to contribute.
