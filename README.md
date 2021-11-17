@@ -71,7 +71,17 @@ Mwangi, K. W., Mainye, N., Ouso, D. O., Esoh, K., Muraya, A. W., Mwangi, C. K., 
 ### 5. Open Science Handbook 
 <b>Aim:</b>
 
-Create a handbook to facilitate proper research data management in Resource constrained settings. 
+Create a handbook to facilitate proper research data management in Resource constrained settings. In this project, the participants will be expected to evaluate and compare the various genomics data management approaches that are available and to test how easy it is to set-up and use the tools. The focus is on genomics. 
+
+Guide:
+Use the TuringWay Handbook as a guide on how to create the book. In the Turing-way: Welcome — The Turing Way
+
+<b>Objective:</b>
+Answer the following questions:
+- What platforms are available for use in resource constrained settings, especially free or cheap ones
+- How easy are they to set-up? Here, we are interested in tools that can easily be set up in a lab without very experience system administrators
+- Explore the role of research data management policies in guiding the implementation of these tools. 
+
 
 
 ## Project Leads
@@ -85,3 +95,16 @@ All the projects will adopt an open approach and will be published or updated in
 
 ## How to contribute
 Follow the individual project GitHub repos to contribute.
+
+## Code of Conduct
+All rules and regulations stipulated in CoC of both BHKi and Open Science Kenya still apply. However, below are some specific rules and regulations that will apply as you work in teams in your mini project/hackathon:
+<ul>
+<li>Teamwork is highly encouraged. This means that all participants in your team should be allowed to contribute his/her ideas.</li>
+<li>All participants should be accommodated keeping in mind that there are slow and fast learners. </li>
+<li>Every mini project will have its HPC account, this means that duplicate work is highly discouraged. A team lead should be selected to spearhead activities of the account.</li>
+<li>All interested participants should be given a chance to submit jobs. However, commitment and hard work will be called upon by every participant.  </li>
+<li>All mini projects have mentors, they will offer support and advice throughout your period of working on your mini project. However, the only means of communication will be through slack and/or email. Specific day(s) of the week and time will be communicated to you prior to your commencement.</li>
+<li>Reports and presentations at the end of the mini projects will be expected and used to evaluate your success.</li>
+<li>Not all will be straightforward therefore thorough reading is encouraged </li>
+DISCLAIMER: Creativity is a valueless trait for every bioinformatician.
+
