@@ -68,7 +68,7 @@ Mwangi, K. W., Mainye, N., Ouso, D. O., Esoh, K., Muraya, A. W., Mwangi, C. K., 
 - What recommendation can be suggested
 - How COVID has affected research in Kenya
 
-### 5. Open Science Handbook 
+### 5. Open Science Research Data Management Handbook 
 <b>Aim:</b>
 
 Create a handbook to facilitate proper research data management in Resource constrained settings. In this project, the participants will be expected to evaluate and compare the various genomics data management approaches that are available and to test how easy it is to set-up and use the tools. The focus is on genomics. 
