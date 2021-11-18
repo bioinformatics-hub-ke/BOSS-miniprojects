@@ -3,7 +3,7 @@ The third phase, Hack, of the BOSS Events consists of the miniprojects. Our part
 
 ## The Projects
 
-### 1. Plant Genome Assembly 
+### [1. Plant Genome Assembly](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/tree/main/PlantGenome_Assembly) 
 
 <b>Aim:</b>
 
@@ -17,9 +17,11 @@ Xia, E., Li, F., Tong, W., Yang, H., Wang, S., Zhao, J., Liu, C., Gao, L., Tai, 
 Come with a detailed report answering the following:
  - Are you able to determine genome location associated with crucial agronomic traits?
  - Are you able to arrive at similar conclusions as those in the paper? Why or why not?
-- Are the descriptions in the methodology section detailed for reproducibility? If not, what could you have done to improve reproducibility?
+ - Are the descriptions in the methodology section detailed for reproducibility? If not, what could you have done to improve reproducibility?
 
-### Project 2. Viral Miniproject
+Comment on the [issue](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/issues/6) to take part in this project.
+
+### [2. Viral Miniproject](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/tree/main/Viral_Analysis)
 
  <b>Aim:</b>
  
@@ -35,8 +37,10 @@ Casimiro-Soriguer, C. S., Perez-Florido, J., Fernandez-Rueda, J. L., Pedrosa-Cor
 - Was it easy to utilize the pipeline? If not why?
 - How can you compare it with other pipelines such as Galaxy?
 
+Comment on the [issue](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/issues/7) to take part in this project
 
-### 3. Metagenomics Analysis
+
+### [3. Metagenomics Analysis](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/tree/main/Metagenomic_Analysis)
 <b>Aim:</b>
 
 The study will aim at reproducing a meta-genomics study performed in Kenya. The study and data will be selected and obtained from the GOLD or any database. Participants will be required to understand the study, reproduce it using the same or alternative bioinformatics tools used in the study and report on information obtained from analysis. 
@@ -51,7 +55,9 @@ Langat, S. K., Eyase, F., Bulimo, W., Lutomiah, J., Oyola, S. O., Imbuga, M., & 
 - The tool used and an alternative that can be used in the pipeline
 - Conclusions obtained from analysis using the pipeline, or address a gap/recommendation mentioned in the same study
 
-### 4. Open Science in Africa. 
+Comment on this [issue](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/issues/3) to take part in this project
+
+### [4. Open Science in Africa.](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/tree/main/OpenScience_in_Africa)
 <b>Aim:</b>
 
 The study will aim at trying to describe the current status of Open Science in Africa. This will involve coming up with a review through literature search from the current published manuscript on Open Science in Africa. Open Science in Kenya: Where are we? Manuscript will serve as a starting point. The aim is to expand the study started in 2018.
@@ -68,7 +74,9 @@ Mwangi, K. W., Mainye, N., Ouso, D. O., Esoh, K., Muraya, A. W., Mwangi, C. K., 
 - What recommendation can be suggested
 - How COVID has affected research in Kenya
 
-### 5. Open Science Research Data Management Handbook 
+Comment on this [issue](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/issues/5) to take part in this project.
+
+### [5. Open Science Research Data Management Handbook.](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/tree/main/OpenScience_RDM_handbook)
 <b>Aim:</b>
 
 Create a handbook to facilitate proper research data management in Resource constrained settings. In this project, the participants will be expected to evaluate and compare the various genomics data management approaches that are available and to test how easy it is to set-up and use the tools. The focus is on genomics. 
@@ -82,7 +90,7 @@ Answer the following questions:
 - How easy are they to set-up? Here, we are interested in tools that can easily be set up in a lab without very experience system administrators
 - Explore the role of research data management policies in guiding the implementation of these tools. 
 
-
+Comment on this [issue](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/issues/4) to take part in this project
 
 ## Project Leads
 The project leads of each project are partners of BHKi and OpenScienceKe.
