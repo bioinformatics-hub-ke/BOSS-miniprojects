@@ -3,61 +3,7 @@ The third phase, Hack, of the BOSS Events consists of the miniprojects. Our part
 
 ## The Projects
 
-### [1. Plant Genome Assembly](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/tree/main/PlantGenome_Assembly) 
-
-<b>Aim:</b>
-
-The study uses several genomic and bioinformatics approaches. In this project, participants will be required to reproduce the genomic analysis carried out in the study. The data will be available from NCBI. You are expected to: Download the sequence data programmatically, carry out DNA sequence pre-processing and de novo assembly and perform genome annotation of the plant of interest. 
-
-Manuscript:
-
-Xia, E., Li, F., Tong, W., Yang, H., Wang, S., Zhao, J., Liu, C., Gao, L., Tai, Y., She, G., Sun, J., Cao, H., Gao, Q., Li, Y., Deng, W., Jiang, X., Wang, W., Chen, Q., Zhang, S., … Wan, X. (2019). The tea plant reference genome and improved gene annotation using long-read and paired-end sequencing data. Scientific Data 2019 6:1, 6(1), 1–9. https://doi.org/10.1038/s41597-019-0127-1
-
-<b>Objectives:</b>
-Come with a detailed report answering the following:
- - Are you able to determine genome location associated with crucial agronomic traits?
- - Are you able to arrive at similar conclusions as those in the paper? Why or why not?
- - Are the descriptions in the methodology section detailed for reproducibility? If not, what could you have done to improve reproducibility?
-
-Comment on the [issue](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/issues/6) to take part in this project.
-
-### [2. Viral Miniproject](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/tree/main/Viral_Analysis)
-
- <b>Aim:</b>
- 
-The study will use bioinformatics approaches. In this project, participants will be required to use the provided files described in the manuscript to perform data preprocessing, variant calling, alignment, assembly and phylogenetic analysis as described by the manuscript. Participants will use any pipeline used in the study, interpret the output files, critique it, compare with other available pipelines or even come up with a better pipeline.  
-
-Manuscript:
-
-Casimiro-Soriguer, C. S., Perez-Florido, J., Fernandez-Rueda, J. L., Pedrosa-Corral, I., Guillot-Sulay, V., Lorusso, N., Martinez-Gonzalez, L. J., Navarro-Marí, J. M., Dopazo, J., & Sanbonmatsu-Gámez, S. (2021). Phylogenetic Analysis of the 2020 West Nile Virus (WNV) Outbreak in Andalusia (Spain). Viruses, 13(5), 836. https://doi.org/10.3390/v13050836
-
-<b>Objective:</b>
-- Come with a detailed report answering the following:
-- Describe all components of the pipeline used in the manuscript.
-- Was it easy to utilize the pipeline? If not why?
-- How can you compare it with other pipelines such as Galaxy?
-
-Comment on the [issue](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/issues/7) to take part in this project
-
-
-### [3. Metagenomics Analysis](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/tree/main/Metagenomic_Analysis)
-<b>Aim:</b>
-
-The study will aim at reproducing a meta-genomics study performed in Kenya. The study and data will be selected and obtained from the GOLD or any database. Participants will be required to understand the study, reproduce it using the same or alternative bioinformatics tools used in the study and report on information obtained from analysis. 
-
-Manuscript:
-
-Langat, S. K., Eyase, F., Bulimo, W., Lutomiah, J., Oyola, S. O., Imbuga, M., & Sang, R. (2021). Profiling of RNA Viruses in Biting Midges (Ceratopogonidae) and Related Diptera from Kenya Using Metagenomics and Metabarcoding Analysis. mSphere, 6(5), e0055121. https://doi.org/10.1128/mSphere.00551-21
-
-<b>Objective:</b>
-- Come with a detailed report answering the following:
-- Describe the metadata and data made available in the database and their formats
-- The tool used and an alternative that can be used in the pipeline
-- Conclusions obtained from analysis using the pipeline, or address a gap/recommendation mentioned in the same study
-
-Comment on this [issue](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/issues/3) to take part in this project
-
-### [4. Open Science in Africa.](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/tree/main/OpenScience_in_Africa)
+### [Open Science in Africa.](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/tree/main/OpenScience_in_Africa)
 <b>Aim:</b>
 
 The study will aim at trying to describe the current status of Open Science in Africa. This will involve coming up with a review through literature search from the current published manuscript on Open Science in Africa. Open Science in Kenya: Where are we? Manuscript will serve as a starting point. The aim is to expand the study started in 2018.
@@ -76,7 +22,7 @@ Mwangi, K. W., Mainye, N., Ouso, D. O., Esoh, K., Muraya, A. W., Mwangi, C. K., 
 
 Comment on this [issue](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/issues/5) to take part in this project.
 
-### [5. Open Science Research Data Management Handbook.](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/tree/main/OpenScience_RDM_handbook)
+### [Open Science Research Data Management Handbook.](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/tree/main/OpenScience_RDM_handbook)
 <b>Aim:</b>
 
 Create a handbook to facilitate proper research data management in Resource constrained settings. In this project, the participants will be expected to evaluate and compare the various genomics data management approaches that are available and to test how easy it is to set-up and use the tools. The focus is on genomics. 
@@ -91,6 +37,60 @@ Answer the following questions:
 - Explore the role of research data management policies in guiding the implementation of these tools. 
 
 Comment on this [issue](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/issues/4) to take part in this project
+
+### [Metagenomics Analysis](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/tree/main/Metagenomic_Analysis)
+<b>Aim:</b>
+
+The study will aim at reproducing a meta-genomics study performed in Kenya. The study and data will be selected and obtained from the GOLD or any database. Participants will be required to understand the study, reproduce it using the same or alternative bioinformatics tools used in the study and report on information obtained from analysis. 
+
+Manuscript:
+
+Langat, S. K., Eyase, F., Bulimo, W., Lutomiah, J., Oyola, S. O., Imbuga, M., & Sang, R. (2021). Profiling of RNA Viruses in Biting Midges (Ceratopogonidae) and Related Diptera from Kenya Using Metagenomics and Metabarcoding Analysis. mSphere, 6(5), e0055121. https://doi.org/10.1128/mSphere.00551-21
+
+<b>Objective:</b>
+- Come with a detailed report answering the following:
+- Describe the metadata and data made available in the database and their formats
+- The tool used and an alternative that can be used in the pipeline
+- Conclusions obtained from analysis using the pipeline, or address a gap/recommendation mentioned in the same study
+
+Comment on this [issue](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/issues/3) to take part in this project
+
+### [Plant Genome Assembly](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/tree/main/PlantGenome_Assembly) 
+
+<b>Aim:</b>
+
+The study uses several genomic and bioinformatics approaches. In this project, participants will be required to reproduce the genomic analysis carried out in the study. The data will be available from NCBI. You are expected to: Download the sequence data programmatically, carry out DNA sequence pre-processing and de novo assembly and perform genome annotation of the plant of interest. 
+
+Manuscript:
+
+Xia, E., Li, F., Tong, W., Yang, H., Wang, S., Zhao, J., Liu, C., Gao, L., Tai, Y., She, G., Sun, J., Cao, H., Gao, Q., Li, Y., Deng, W., Jiang, X., Wang, W., Chen, Q., Zhang, S., … Wan, X. (2019). The tea plant reference genome and improved gene annotation using long-read and paired-end sequencing data. Scientific Data 2019 6:1, 6(1), 1–9. https://doi.org/10.1038/s41597-019-0127-1
+
+<b>Objectives:</b>
+Come with a detailed report answering the following:
+ - Are you able to determine genome location associated with crucial agronomic traits?
+ - Are you able to arrive at similar conclusions as those in the paper? Why or why not?
+ - Are the descriptions in the methodology section detailed for reproducibility? If not, what could you have done to improve reproducibility?
+
+Comment on the [issue](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/issues/6) to take part in this project.
+
+### [Viral Miniproject](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/tree/main/Viral_Analysis)
+
+ <b>Aim:</b>
+ 
+The study will use bioinformatics approaches. In this project, participants will be required to use the provided files described in the manuscript to perform data preprocessing, variant calling, alignment, assembly and phylogenetic analysis as described by the manuscript. Participants will use any pipeline used in the study, interpret the output files, critique it, compare with other available pipelines or even come up with a better pipeline.  
+
+Manuscript:
+
+Casimiro-Soriguer, C. S., Perez-Florido, J., Fernandez-Rueda, J. L., Pedrosa-Corral, I., Guillot-Sulay, V., Lorusso, N., Martinez-Gonzalez, L. J., Navarro-Marí, J. M., Dopazo, J., & Sanbonmatsu-Gámez, S. (2021). Phylogenetic Analysis of the 2020 West Nile Virus (WNV) Outbreak in Andalusia (Spain). Viruses, 13(5), 836. https://doi.org/10.3390/v13050836
+
+<b>Objective:</b>
+- Come with a detailed report answering the following:
+- Describe all components of the pipeline used in the manuscript.
+- Was it easy to utilize the pipeline? If not why?
+- How can you compare it with other pipelines such as Galaxy?
+
+Comment on the [issue](https://github.com/bioinformatics-hub-ke/BOSS-miniprojects/issues/7) to take part in this project
+
 
 ## Project Leads
 The project leads of each project are partners of BHKi and OpenScienceKe.
