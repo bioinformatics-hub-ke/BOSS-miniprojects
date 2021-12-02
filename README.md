@@ -63,7 +63,7 @@ The study uses several genomic and bioinformatics approaches. In this project, p
 
 Manuscript:
 
-Xia, E., Li, F., Tong, W., Yang, H., Wang, S., Zhao, J., Liu, C., Gao, L., Tai, Y., She, G., Sun, J., Cao, H., Gao, Q., Li, Y., Deng, W., Jiang, X., Wang, W., Chen, Q., Zhang, S., … Wan, X. (2019). The tea plant reference genome and improved gene annotation using long-read and paired-end sequencing data. Scientific Data 2019 6:1, 6(1), 1–9. https://doi.org/10.1038/s41597-019-0127-1
+Chang, Y., Liu, H., Liu, M., Liao, X., Sahu, S. K., Fu, Y., Song, B., Cheng, S., Kariba, R., Muthemba, S., Hendre, P. S., Mayes, S., Ho, W. K., Yssel, A. E. J., Kendabie, P., Wang, S., Li, L., Muchugi, A., Jamnadass, R., … Liu, X. (2018). The draft genomes of five agriculturally important African orphan crops. 8, 1–16. https://doi.org/10.1093/gigascience/giy152 
 
 <b>Objectives:</b>
 Come with a detailed report answering the following:
